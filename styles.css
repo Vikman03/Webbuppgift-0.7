@@ -1,4 +1,4 @@
-* {
+ *{
     box-sizing: border-box;
 }
 
@@ -51,7 +51,7 @@ article {
 }
 
 h1 {
-    background: url(images/logo.png);ss
+    background: url(images/logo.png);
     border-radius: 70px;
     box-shadow: 3px 4px 4px grey;
 }
